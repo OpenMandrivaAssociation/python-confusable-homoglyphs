@@ -3,7 +3,7 @@
 
 Name:		python-confusable-homoglyphs
 Version:	3.3.1
-Release:	1
+Release:	2
 Summary:	Detect confusable usage of unicode homoglyphs, prevent homograph attacks
 License:	MIT
 Group:		Development/Python
